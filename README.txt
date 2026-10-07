@@ -1,4 +1,4 @@
-# The Macrame Studio - Static Website
+# GAYATRI'S MACRAME STUDIO - Static Website
 
 ## Files
 - index.html - website structure/content
